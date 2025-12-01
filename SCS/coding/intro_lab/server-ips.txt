@@ -1,0 +1,104 @@
+alumnnatverk.uu.se has address 130.238.4.82
+bmc.uu.se has address 185.195.92.131
+bmc.uu.se has IPv6 address 2a0a:56c4::b9c3:5d83
+bmc.uu.se mail is handled by 10 mailfilter-ng-4.sunet.se.
+bmc.uu.se mail is handled by 10 mailfilter-ng-3.sunet.se.
+bmc.uu.se mail is handled by 10 mailfilter-ng-1.sunet.se.
+bmc.uu.se mail is handled by 20 mailfilter-ng-2.sunet.se.
+Host bmcmediathek.uu.se not found: 3(NXDOMAIN)
+botan.uu.se has address 185.195.94.32
+botan.uu.se has IPv6 address 2a0a:56c4::1f
+botan.uu.se mail is handled by 10 mailfilter-ng-4.sunet.se.
+botan.uu.se mail is handled by 10 mailfilter-ng-3.sunet.se.
+botan.uu.se mail is handled by 10 mailfilter-ng-1.sunet.se.
+botan.uu.se mail is handled by 20 mailfilter-ng-2.sunet.se.
+cb.uu.se has address 130.238.12.116
+cb.uu.se mail is handled by 10 mailfilter-ng-3.sunet.se.
+cb.uu.se mail is handled by 10 mailfilter-ng-1.sunet.se.
+cb.uu.se mail is handled by 20 mailfilter-ng-2.sunet.se.
+cb.uu.se mail is handled by 10 mailfilter-ng-4.sunet.se.
+cpthunberg.ebc.uu.se has address 130.238.83.216
+Host coincabinet.uu.se not found: 3(NXDOMAIN)
+ebc.uu.se has address 185.195.94.32
+ebc.uu.se has IPv6 address 2a0a:56c4::1f
+ebc.uu.se mail is handled by 10 mailfilter-ng-1.sunet.se.
+ebc.uu.se mail is handled by 20 mailfilter-ng-2.sunet.se.
+ebc.uu.se mail is handled by 10 mailfilter-ng-3.sunet.se.
+ebc.uu.se mail is handled by 10 mailfilter-ng-4.sunet.se.
+evolutionsmuseet.uu.se has address 185.195.92.131
+evolutionsmuseet.uu.se has IPv6 address 2a0a:56c4::b9c3:5d83
+gustavianum.uu.se has address 185.195.92.131
+gustavianum.uu.se has IPv6 address 2a0a:56c4::b9c3:5d83
+gustavianum.uu.se mail is handled by 10 mailfilter-ng-3.sunet.se.
+gustavianum.uu.se mail is handled by 20 mailfilter-ng-2.sunet.se.
+gustavianum.uu.se mail is handled by 10 mailfilter-ng-4.sunet.se.
+gustavianum.uu.se mail is handled by 10 mailfilter-ng-1.sunet.se.
+ieg.uu.se has address 185.195.94.32
+ieg.uu.se has IPv6 address 2a0a:56c4::1f
+it.bmc.uu.se is an alias for ws2.bmc.uu.se.
+ws2.bmc.uu.se has address 130.238.55.23
+it.uu.se has address 130.238.12.100
+it.uu.se mail is handled by 10 mailfilter-ng-4.sunet.se.
+it.uu.se mail is handled by 20 mailfilter-ng-2.sunet.se.
+it.uu.se mail is handled by 10 mailfilter-ng-1.sunet.se.
+it.uu.se mail is handled by 10 mailfilter-ng-3.sunet.se.
+kemi.uu.se has address 185.195.94.32
+kemi.uu.se has IPv6 address 2a0a:56c4::1f
+kemi.uu.se mail is handled by 10 mailfilter-ng-3.sunet.se.
+kemi.uu.se mail is handled by 10 mailfilter-ng-4.sunet.se.
+kemi.uu.se mail is handled by 20 mailfilter-ng-2.sunet.se.
+kemi.uu.se mail is handled by 10 mailfilter-ng-1.sunet.se.
+musik.uu.se has address 185.195.94.32
+musik.uu.se has IPv6 address 2a0a:56c4::1f
+musik.uu.se mail is handled by 10 mailfilter-ng-3.sunet.se.
+musik.uu.se mail is handled by 10 mailfilter-ng-4.sunet.se.
+musik.uu.se mail is handled by 10 mailfilter-ng-1.sunet.se.
+musik.uu.se mail is handled by 20 mailfilter-ng-2.sunet.se.
+math.uu.se has address 185.195.94.32
+math.uu.se has IPv6 address 2a0a:56c4::1f
+math.uu.se mail is handled by 10 mailfilter-ng-3.sunet.se.
+math.uu.se mail is handled by 20 mailfilter-ng-2.sunet.se.
+math.uu.se mail is handled by 10 mailfilter-ng-1.sunet.se.
+math.uu.se mail is handled by 10 mailfilter-ng-4.sunet.se.
+mp.uu.se has address 130.238.7.107
+mp.uu.se has address 130.238.7.106
+mp.uu.se has IPv6 address 2001:6b0:b:242:130:238:7:106
+mp.uu.se has IPv6 address 2001:6b0:b:242:130:238:7:107
+nita.uu.se mail is handled by 20 mailfilter-ng-2.sunet.se.
+nita.uu.se mail is handled by 10 mailfilter-ng-4.sunet.se.
+nita.uu.se mail is handled by 10 mailfilter-ng-3.sunet.se.
+nita.uu.se mail is handled by 10 mailfilter-ng-1.sunet.se.
+physics.uu.se has address 185.195.94.32
+physics.uu.se has IPv6 address 2a0a:56c4::1f
+physics.uu.se mail is handled by 20 mailfilter-ng-2.sunet.se.
+physics.uu.se mail is handled by 10 mailfilter-ng-1.sunet.se.
+physics.uu.se mail is handled by 10 mailfilter-ng-3.sunet.se.
+physics.uu.se mail is handled by 10 mailfilter-ng-4.sunet.se.
+polacksbacken.uu.se has address 130.238.12.56
+polacksbacken.uu.se mail is handled by 10 mailfilter-ng-1.sunet.se.
+polacksbacken.uu.se mail is handled by 10 mailfilter-ng-4.sunet.se.
+polacksbacken.uu.se mail is handled by 20 mailfilter-ng-2.sunet.se.
+polacksbacken.uu.se mail is handled by 10 mailfilter-ng-3.sunet.se.
+Host studentportalen.uu.se not found: 3(NXDOMAIN)
+teknik.uu.se mail is handled by 10 mailfilter-ng-3.sunet.se.
+teknik.uu.se mail is handled by 10 mailfilter-ng-1.sunet.se.
+teknik.uu.se mail is handled by 20 mailfilter-ng-2.sunet.se.
+teknik.uu.se mail is handled by 10 mailfilter-ng-4.sunet.se.
+ub.uu.se has address 185.195.94.32
+ub.uu.se has IPv6 address 2a0a:56c4::1f
+ub.uu.se mail is handled by 20 mailfilter-ng-2.sunet.se.
+ub.uu.se mail is handled by 10 mailfilter-ng-3.sunet.se.
+ub.uu.se mail is handled by 10 mailfilter-ng-4.sunet.se.
+ub.uu.se mail is handled by 10 mailfilter-ng-1.sunet.se.
+uppmax.uu.se has address 185.195.92.131
+uppmax.uu.se has IPv6 address 2a0a:56c4::b9c3:5d83
+uppmax.uu.se mail is handled by 10 mailfilter-ng-4.sunet.se.
+uppmax.uu.se mail is handled by 20 mailfilter-ng-1.sunet.se.
+user.it.uu.se has address 130.238.12.130
+user.it.uu.se mail is handled by 10 mailfilter-ng-1.sunet.se.
+user.it.uu.se mail is handled by 10 mailfilter-ng-2.sunet.se.
+vicechancellorsblog.uu.se is an alias for wordpress.www-hotel4.uu.se.
+wordpress.www-hotel4.uu.se is an alias for www-hotel4.uu.se.
+www-hotel4.uu.se is an alias for uuc-web005.its.uu.se.
+uuc-web005.its.uu.se has address 130.238.7.35
+uuc-web005.its.uu.se has IPv6 address 2001:6b0:b:242:130:238:7:35

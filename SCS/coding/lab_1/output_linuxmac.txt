@@ -1,0 +1,32 @@
+% ls -l
+-rwxrwxrwx@ 1 abhinavramalingam  staff    0 Nov 18 15:13 input.txt
+
+% python fwrite.py
+File input.txt opened successfully for writing.
+Enter some text to write into the file: This is initial file writing
+User input written to the file successfully.
+File closed successfully.
+
+% python fwrite.py
+File input.txt opened successfully for writing.
+Enter some text to write into the file: During file writing I removed write permissions
+User input written to the file successfully.
+File closed successfully.
+% chmod 555 input.txt 
+% ls -l
+-r-xr-xr-x@ 1 abhinavramalingam  staff    0 Nov 18 17:20 input.txt
+
+% python fwrite.py
+Error opening file: [Errno 13] Permission denied: 'input.txt'
+% chmod 777 input.txt
+% ls -l
+-rwxrwxrwx@ 1 abhinavramalingam  staff   48 Nov 18 17:21 input.txt
+
+% python fwrite.py
+File input.txt opened successfully for writing.
+Enter some text to write into the file: I brought back write permission but tried to delete the file
+User input written to the file successfully.
+File closed successfully.
+% rm input.txt 
+% cat input.txt
+cat: input.txt: No such file or directory

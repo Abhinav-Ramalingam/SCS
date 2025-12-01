@@ -1,0 +1,37 @@
+# Checked permissions of file in input.txt -> properties
+
+> python fwrite.py
+File input.txt opened successfully for writing.
+Enter some text to write into the file: This is initial file writing
+User input written to the file successfully.
+File closed successfully.
+
+> python fwrite.py
+File input.txt opened successfully for writing.
+Enter some text to write into the file: During file writing I removed write permissions
+User input written to the file successfully.
+File closed successfully.
+
+# Used input.txt -> properties in GUI to manually remove write permissions
+
+> python fwrite.py
+Error opening file: [Errno 13] Permission denied: 'input.txt'
+
+# Used input.txt -> properties in GUI to manually add back write permissions
+
+> python fwrite.py
+File input.txt opened successfully for writing.
+Enter some text to write into the file: I brought back write permission but tried to delete the file
+User input written to the file successfully.
+File closed successfully.
+
+> rm input.txt
+rm : Cannot remove item C:\Users\DELL\Downloads\input.txt: The process cannot access the file
+'C:\Users\DELL\Downloads\input.txt' because it is being used by another process.
+At line:1 char:1
++ rm input.txt
++ ~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (C:\Users\DELL\Downloads\input.txt:FileInfo) [Remove-Item],
+   IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemComm
+   and
